@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BioChat</string>
+    <string name="facebook_app_id">843370746649668</string>
+    <string name="fb_login_protocol_scheme">fb843370746649668</string>
+    <string name="facebook_client_token">e592988a9925b170bafe2532d1048032</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903566165907",
+    "project_id": "biochat-e1887",
+    "storage_bucket": "biochat-e1887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903566165907:android:a69f0973e5f84d34658a66",
+        "android_client_info": {
+          "package_name": "com.biochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903566165907-s83g8bn1bq0tpa33elpp3v5ka8jve0jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biochat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "903566165907-8u90ag2vib1ugj2q8vmarofi7em7pfbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8WaihIx3pMyaTFIz9u4B_6rxh5K6qlfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903566165907-8u90ag2vib1ugj2q8vmarofi7em7pfbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
